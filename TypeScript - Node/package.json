@@ -1,0 +1,23 @@
+{
+  "name": "typescript-node",
+  "version": "1.0.0",
+  "description": "Proyecto del curso Tipos avanzados y funciones con TypeScript y NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TypeScript",
+    "JavaScript",
+    "NodeJs"
+  ],
+  "author": "David Hilera <david.hilera@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "@capacitor/camera": "^4.0.1"
+  }
+}

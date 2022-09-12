@@ -1,0 +1,14 @@
+{
+  "name": "mono-repo-typescript",
+  "version": "1.0.0",
+  "description": "Respositorios con fundamentos de TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "David Hilera <david.hilera@hotmail.com>",
+  "license": "MIT"
+}
